@@ -30,5 +30,3 @@ http.cors.allow-origin:  "*"
 npm install elasticsearch_head_master
 npm start
 打开 http://localhost:9100, 
-
-联系方式：QQ：1224706052，邮箱：1224706052@qq.com
