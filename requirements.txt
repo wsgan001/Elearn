@@ -3,7 +3,7 @@ chardet==3.0.4
 decorator==4.3.2
 defusedxml==0.5.0
 diff-match-patch==20181111
-Django==2.0.13
+Django==2.2.13
 django-crispy-forms==1.7.2
 django-formtools==2.1
 django-haystack==2.8.1
